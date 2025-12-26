@@ -1,0 +1,83 @@
+{
+  "Backend Java Developer": { "skills": ["java", "spring boot", "spring security", "hibernate", "jpa", "rest api", "microservices", "mysql", "docker", "aws"] },
+  "Java Developer": { "skills": ["java", "core java", "collections", "multithreading", "jvm", "spring", "sql"] },
+  "Spring Boot Developer": { "skills": ["spring boot", "spring mvc", "spring security", "rest api", "microservices", "jpa"] },
+  "Microservices Engineer": { "skills": ["microservices", "spring boot", "docker", "kubernetes", "rest api", "cloud"] },
+  "Full Stack Developer": { "skills": ["java", "spring boot", "react", "javascript", "html", "css", "rest api", "git"] },
+  "Frontend Developer": { "skills": ["html", "css", "javascript", "react", "angular", "responsive design"] },
+  "React Developer": { "skills": ["react", "javascript", "redux", "html", "css"] },
+  "Angular Developer": { "skills": ["angular", "typescript", "javascript", "rxjs", "html", "css"] },
+
+  "Software Engineer": { "skills": ["data structures", "algorithms", "oops", "problem solving", "design patterns"] },
+  "Senior Software Engineer": { "skills": ["system design", "scalability", "performance optimization", "mentoring"] },
+  "Lead Software Engineer": { "skills": ["technical leadership", "code review", "architecture", "mentoring"] },
+  "Principal Engineer": { "skills": ["architecture", "distributed systems", "scalability", "leadership"] },
+
+  "DevOps Engineer": { "skills": ["docker", "kubernetes", "aws", "ci/cd", "jenkins", "linux", "monitoring"] },
+  "Cloud Engineer": { "skills": ["aws", "azure", "gcp", "cloud architecture", "terraform"] },
+  "Site Reliability Engineer": { "skills": ["sre", "monitoring", "incident management", "linux", "automation"] },
+  "Build and Release Engineer": { "skills": ["ci/cd", "jenkins", "git", "release management"] },
+
+  "Data Analyst": { "skills": ["sql", "excel", "power bi", "tableau", "statistics", "data analysis"] },
+  "Business Intelligence Engineer": { "skills": ["sql", "data warehousing", "etl", "power bi", "tableau"] },
+  "Data Scientist": { "skills": ["python", "machine learning", "statistics", "pandas", "numpy"] },
+  "Machine Learning Engineer": { "skills": ["machine learning", "deep learning", "python", "tensorflow", "pytorch"] },
+  "AI Engineer": { "skills": ["artificial intelligence", "nlp", "deep learning", "python"] },
+
+  "Python Developer": { "skills": ["python", "django", "flask", "rest api", "sql"] },
+  "Django Developer": { "skills": ["django", "python", "orm", "rest api"] },
+  "Flask Developer": { "skills": ["flask", "python", "api development", "sql"] },
+
+  "Mobile App Developer": { "skills": ["android", "ios", "mobile development", "api integration"] },
+  "Android Developer": { "skills": ["android", "kotlin", "java", "mvvm"] },
+  "iOS Developer": { "skills": ["ios", "swift", "xcode", "mobile apps"] },
+  "Flutter Developer": { "skills": ["flutter", "dart", "mobile apps", "ui design"] },
+
+  "QA Engineer": { "skills": ["manual testing", "automation testing", "test cases", "bug tracking"] },
+  "Automation Tester": { "skills": ["selenium", "java", "testng", "automation testing"] },
+  "Performance Tester": { "skills": ["jmeter", "load testing", "performance analysis"] },
+
+  "Business Analyst": { "skills": ["business analysis", "requirement gathering", "stakeholder management"] },
+  "Product Manager": { "skills": ["product strategy", "roadmap", "stakeholder management", "analytics"] },
+  "Project Manager": { "skills": ["project planning", "risk management", "agile", "scrum"] },
+
+  "Cyber Security Analyst": { "skills": ["cyber security", "network security", "vulnerability assessment"] },
+  "Information Security Engineer": { "skills": ["security architecture", "risk management", "compliance"] },
+  "Penetration Tester": { "skills": ["penetration testing", "ethical hacking", "owasp"] },
+
+  "Database Administrator": { "skills": ["mysql", "oracle", "database tuning", "backup", "recovery"] },
+  "SQL Developer": { "skills": ["sql", "stored procedures", "query optimization"] },
+  "Data Engineer": { "skills": ["etl", "data pipelines", "spark", "hadoop", "sql"] },
+
+  "System Administrator": { "skills": ["linux", "windows server", "networking", "system maintenance"] },
+  "Network Engineer": { "skills": ["networking", "routing", "switching", "firewalls"] },
+  "IT Infrastructure Engineer": { "skills": ["servers", "networking", "cloud", "monitoring"] },
+
+  "UI UX Designer": { "skills": ["ui design", "ux research", "figma", "wireframing"] },
+  "Graphic Designer": { "skills": ["photoshop", "illustrator", "visual design"] },
+  "Product Designer": { "skills": ["design thinking", "figma", "user research"] },
+
+  "Game Developer": { "skills": ["game development", "unity", "c#", "graphics"] },
+  "Embedded Systems Engineer": { "skills": ["embedded systems", "c", "microcontrollers", "iot"] },
+  "IoT Engineer": { "skills": ["iot", "embedded systems", "sensors", "cloud"] },
+
+  "Blockchain Developer": { "skills": ["blockchain", "smart contracts", "solidity", "ethereum"] },
+  "Web3 Developer": { "skills": ["web3", "blockchain", "smart contracts", "javascript"] },
+
+  "Web Developer": { "skills": ["html", "css", "javascript", "web development"] },
+  "WordPress Developer": { "skills": ["wordpress", "php", "themes", "plugins"] },
+
+  "IT Support Engineer": { "skills": ["it support", "troubleshooting", "hardware", "software"] },
+  "Technical Support Engineer": { "skills": ["customer support", "issue resolution", "technical documentation"] },
+  "Service Desk Analyst": { "skills": ["ticketing systems", "customer support", "troubleshooting"] },
+
+  "HR Executive": { "skills": ["recruitment", "hr operations", "communication"] },
+  "Technical Recruiter": { "skills": ["recruitment", "technical hiring", "interviewing"] },
+
+  "Digital Marketing Executive": { "skills": ["seo", "content marketing", "social media", "analytics"] },
+  "SEO Specialist": { "skills": ["seo", "keyword research", "google analytics"] },
+  "Content Writer": { "skills": ["content writing", "blogging", "seo"] },
+
+  "Finance Analyst": { "skills": ["financial analysis", "excel", "forecasting"] },
+  "Accountant": { "skills": ["accounting", "taxation", "tally", "financial reporting"] }
+}
